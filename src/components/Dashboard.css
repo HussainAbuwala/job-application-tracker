@@ -1,0 +1,62 @@
+.table-container{
+    width: 100%;
+    margin: 0 auto;
+    padding: 4px;
+
+}
+
+.custom-table{
+    min-width: 1000px; /* Set the minimum width of the table */
+}
+
+.delete-cell{
+    width:25px;
+}
+
+.plus-icon{
+    font-size: 2.5rem; /* Increase the font size to make the icon larger */
+}
+
+.position-container{
+    background-color: #f4f0ec;
+    padding: 7px;
+    min-width: 100px;
+    border-radius: 10px;
+}
+
+.to-do{
+    background: #B0B7C0;
+}
+
+.in-progress{
+    background: #89CFF0;
+}
+
+.complete{
+    background: #A3EBB1;
+}
+
+.rejected{
+    background: #FF8A8A;
+}
+
+.stage-tag {
+	color: black;
+	display: inline-block;
+	padding: 5px 10px 5px 25px;
+	border-radius: 90px 30px 30px 90px;
+	position: relative;
+	margin: 0 5px 5px 0;
+    min-width: 100px;
+
+}
+.stage-tag:after {
+	content: '';
+	width: 8px;
+	height: 8px;
+	background: white;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	border-radius: 90px;
+}
