@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# AppliTracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Introducing AppliTracker: Your Ultimate Job Tracking Application
 
-## Available Scripts
+AppliTracker is a job-tracking application designed to streamline your job search and application process. With its intuitive interface and powerful features, AppliTracker empowers you to efficiently organize and manage your job applications in one place.
 
-In the project directory, you can run:
+![Screen Recording 2023-08-05 at 10 54 04 AM](https://github.com/HussainAbuwala/job-application-tracker/assets/77569166/bcb4b0b2-a6e7-4434-9486-153447b82102)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Key Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Seamless Sign-Up and Sign-In Experience**: Getting started with AppliTracker is a breeze! Simply sign up and create your personalized account, and you'll have access to a world of job application management tools at your fingertips. Our secure sign-in process ensures that your data remains protected at all times.
+2. **Efficiently Manage Job Applications**:: Bid farewell to scattered job applications and embrace a more organized approach with AppliTracker's tabular format. You can easily save job details, such as Company, Position, Stage, and Due Date, in a structured table, allowing you to stay on top of each application's progress.
+3. **Streamlined Document Management**:: Gone are the days of hunting for resumes, transcripts, and other essential documents. AppliTracker's innovative Document Fields feature enables you to effortlessly link and upload your application-related documents for each job entry. No more juggling through multiple folders - all your crucial files are neatly stored alongside their respective applications.
 
-### `npm test`
+## Installation:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Clone the repository: `git clone https://github.com/HussainAbuwala/job-application-tracker.git`
+2. Navigate to the project directory: `cd job-application-tracker`
+3. Install dependencies: `npm install`
+4. Configure your own firebase project with and set up configuration variables in a `.env` file.
+5. To run the application: `npm run start`
 
-### `npm run build`
+## Tools & Languages Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1. HTML5
+2. CSS3
+3. Bootstrap
+4. JavaScript
+5. React
+6. Firebase Authentication
+7. Firestore
+8. Firebase Storage
+9. GitHub
+10. netlify
