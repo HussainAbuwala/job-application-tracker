@@ -1,8 +1,7 @@
 .table-container{
     width: 100%;
     margin: 0 auto;
-    padding: 4px;
-
+    font-size: 0.9em;
 }
 
 .custom-table{
@@ -19,9 +18,20 @@
 
 .position-container{
     background-color: #f4f0ec;
-    padding: 7px;
+    padding: 6px;
     min-width: 100px;
     border-radius: 10px;
+}
+
+.resume-items{
+    background-color: #FFFAA0	;
+    padding: 3px;
+    margin-top: 3px;
+    border-radius: 6px;
+}
+
+.resume-cell{
+    width: 200px;
 }
 
 .to-do{
